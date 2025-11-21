@@ -1,0 +1,1 @@
+main est la branche principale, dev est une deuxieme branch qui est une copie de main, feature (nouvelles fonctionnalités), hotfix (corrections).
