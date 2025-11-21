@@ -1,0 +1,1 @@
+exercice 7, j’écris un test, puis je lai mis de cote avec "git stash" ensuite j'ai affiché la list avec "git stash list", pour aller sur main -> git checkout main et git checkout dev pour revnir sur dev et enfin git stash pop pour faire revenir mon fichier exo7.md qui etait pas fini.
